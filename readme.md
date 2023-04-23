@@ -10,7 +10,7 @@ You can find the video explanation of our mini project [here](https://youtu.be/d
 
 ## Contributors
 - @joankadevi - Data Visualisation, Data Analysis, MA, LSTM, Slides and Video editing
-- @jeremy - Data Extraction, NAIVE, MA, Exponential Smoothing, LSTM, Data Analysis
+- @JeremyNathanJusuf - Data Extraction, NAIVE, MA, Exponential Smoothing, LSTM, Data Analysis
 
 ## Problem Definition
 In today's fast-paced world, the stock market is one of the most popular avenues for investments. However, predicting stock prices accurately is a challenging task that requires advanced techniques and tools as the stock market is complex and volatile. 
